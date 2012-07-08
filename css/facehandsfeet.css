@@ -1,0 +1,30 @@
+body {
+	background-color: #9EAD5B;
+	font-family: 'Podkova', serif;
+	font-size: 18px;
+	line-height: 28px;
+}
+a{
+	background-color: #000;
+	color: #fff;
+	font-weight: 800;
+	text-decoration: none;
+	padding: 0 9px;
+}
+	#content{
+		margin: 0 auto;
+		width: 640px;
+		background-color: #fff;
+		padding: 18px;
+		border-radius: 2px;
+	}
+		#content h1{
+			height: 233px;
+			background: transparent url(/img/lurgur.png) top left no-repeat;
+			text-indent: -20000px;
+		}
+		#content p{
+			font-size: 36px;
+			line-height: 54px;
+			text-align: center;
+		}
